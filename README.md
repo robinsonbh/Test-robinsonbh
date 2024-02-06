@@ -1,5 +1,8 @@
-# Hello, I'm Bradrick Robinson (Brad)
-<a href="https://[linkedin.com](https://www.linkedin.com/in/bradrick-robinson?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHayWtqlISXKgjagoQckOFA%3D%3D)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Bradrick (Brad) Robinson 
+<a href="https://www.linkedin.com/in/bradrick-robinson?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHayWtqlISXKgjagoQckOFA%3D%3D" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
+
 
 [Brief Introduction - Remove this afterwards]
 
