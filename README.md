@@ -26,13 +26,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
 <a href="https://www.wireshark.org/" target="_blank">
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
-</a>    <a href="https://suricata.io/" target="_blank">
+</a> 
+  <a href="https://suricata.io/" target="_blank">
   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" alt="Suricata" />
 </a>
    <a href="https://zeek.org/" target="_blank">
@@ -53,14 +53,22 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.qualys.com/products/vmdr/" target="_blank">
+  <img src="https://img.shields.io/badge/Qualys-VMDR-00a2df?style=for-the-badge" alt="Qualys VMDR" />
+</a>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.comptia.org/certifications/a" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-A%2B-0056b3?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+" />
+</a>
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
+<a href="https://www.comptia.org/certifications/security" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-00275E?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
+</a>
+
+
 
 ## Projects
 - Detection Lab
