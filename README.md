@@ -32,8 +32,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <a href="https://www.wireshark.org/" target="_blank">
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
-</a>
-    <a href="https://suricata.io/" target="_blank">
+</a>    <a href="https://suricata.io/" target="_blank">
   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" alt="Suricata" />
 </a>
    <a href="https://zeek.org/" target="_blank">
