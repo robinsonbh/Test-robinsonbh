@@ -57,7 +57,10 @@ My Bachelor of Science Degree in Information Systems Security with a concentrati
     <a href="https://www.splunk.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk" />
 </a>
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <a href="https://www.elastic.co/security/siem" target="_blank">
+  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" alt="Elastic" />
+</a>
+
 </div>
 
 ## Certifications
