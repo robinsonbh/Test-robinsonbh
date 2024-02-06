@@ -43,7 +43,10 @@ My Bachelor of Science Degree in Information Systems Security with a concentrati
     <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" target="_blank">
   <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Defender for Endpoint" />
 </a>
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <a href="https://www.rapid7.com/products/velociraptor/" target="_blank">
+  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" alt="Velociraptor" />
+</a>
+  
 </div>
 
 ### SIEM
