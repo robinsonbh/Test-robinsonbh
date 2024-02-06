@@ -11,10 +11,9 @@ I am a Retired Navy Veteran with a profound interest in technology and a true be
 
 ## Objective
 
-My Bachelor of Science Degree in Information Systems Security with a concentration in Cybersecurity has led me to develop a passion for cybersecurity. Looking to become a Cyber Defender/Information Security Analyst, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My Bachelor of Science Degree in Information Systems Security with a concentration in Cybersecurity has led me to develop a passion for cybersecurity and to serve a purpose as a Cyber Defender/Information Security Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -41,7 +40,9 @@ My Bachelor of Science Degree in Information Systems Security with a concentrati
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" target="_blank">
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Defender for Endpoint" />
+</a>
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
