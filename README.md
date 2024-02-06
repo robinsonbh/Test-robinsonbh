@@ -1,15 +1,15 @@
 # Hello, I'm Bradrick (Brad) Robinson 
 <a href="https://www.linkedin.com/in/bradrick-robinson?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHayWtqlISXKgjagoQckOFA%3D%3D" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a> 
+<a href="https://www.credly.com/users/bradrick-robinson" target="_blank">
+  <img src="https://url-to-your-badge-image" alt="Credly Profile" style="max-width:100%;">
 </a>
 
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Retired Navy Veteran with a profound interest in technology and a true believer in using common sense and logic to help solve complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -57,16 +57,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.qualys.com/products/vmdr/" target="_blank">
   <img src="https://img.shields.io/badge/Qualys-VMDR-00a2df?style=for-the-badge" alt="Qualys VMDR" />
 </a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.axelos.com/certifications/itil-certifications/itil-foundation" target="_blank">
+  <img src="https://img.shields.io/badge/ITILv4-Certified-6d2080?style=for-the-badge" alt="ITILv4 Certification" />
+</a>
 <a href="https://www.comptia.org/certifications/a" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA-A%2B-0056b3?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+" />
 </a>
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-<a href="https://www.comptia.org/certifications/security" target="_blank">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-00275E?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
-</a>
+
 
 
 
