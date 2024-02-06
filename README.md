@@ -54,7 +54,9 @@ My Bachelor of Science Degree in Information Systems Security with a concentrati
     <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" target="_blank">
   <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Sentinel" />
 </a>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <a href="https://www.splunk.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk" />
+</a>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
